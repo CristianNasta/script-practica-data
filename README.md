@@ -1,0 +1,2 @@
+# script-practica-data
+scrpt
